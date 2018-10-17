@@ -2,19 +2,19 @@
 
 * ```halt.``` per chiudere il prompt.
 
-* ```atom(ciao)``` per verificare se x è un atomo.
+* ```atom(ciao).``` per verificare se x è un atomo.
 
-* ```atomic(43)``` funziona anche con i numeri.
+* ```atomic(43).``` funziona anche con i numeri.
 
 * ```emacs.``` per aprire l'editor Emacs.
 
 * Nel menu in alto di Emacs vai su Compile > Compile Buffer per aggiornare la base di dati.
 
-* ```workingDirectory(WD, WD)``` per mostrare directory corrente.
+* ```workingDirectory(WD, WD).``` per mostrare directory corrente.
 
 * ```help.``` per mostrare la documentazione
 
-* ```consult('nomeFile.pl')``` per caricare un file ed aggiungere i fatti e le regole alla base dei dati.
+* ```consult('nomeFile.pl').``` per caricare un file ed aggiungere i fatti e le regole alla base dei dati.
 
 * Dopo aver fatto una domanda come ```colleague(X, Y, 'IBM').``` premi punto e virgola ```;``` per mostrare altre opzioni che soddisfano la mia domanda (equivale all'OR).
 
