@@ -28,7 +28,7 @@
 
 * Per creare una lista ```ListaVuota = [].```. ```is_list([1, 2, 3]).``` per verificare se l'argomento ```[1, 2, 3]```) è una lista.
 
-* Tail per spacchettare le liste con prefisso e postfisso. ```Tail``` restituisce una lista con la coda della mia lista. Es. ```[1, 2 | Tail] = [1, X, 3, 4, foo].``` restituisce ```X = 2``` e ```Tail = [3, 4, foo]```. 
+* Tail per spacchettare le liste con prefisso e postfisso. ```Tail``` restituisce una lista con la coda della mia lista. Es. ```[1, 2 | Tail] = [1, X, 3, 4, foo].``` restituisce ```X = 2.``` e ```Tail = [3, 4, foo]```. 
 
 * Per convenzione si usa ```Xs``` per indicare il nome della coda.
 
