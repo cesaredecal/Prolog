@@ -2,7 +2,9 @@
 
 * ```halt.``` per chiudere il prompt.
 
-* Nel menu in alto vai su Compile > Compile Buffer per eseguire un refresh della mia base di dati.
+* ```emacs.``` per aprire l'editor Emacs.
+
+* Nel menu in alto di Emacs vai su Compile > Compile Buffer per eseguire un refresh della mia base di dati.
 
 * ```workingDirectory(WD, WD)``` per mostrare directory corrente.
 
