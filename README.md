@@ -1,10 +1,14 @@
 # Prolog
 
+* Per iniziare apri Prolog. Su macOS scarica XQuartz.
+
 * ```halt.``` per chiudere il prompt.
 
 * ```atom(ciao).``` per verificare se x è un atomo. ```atomic(43).``` funziona anche con i numeri.
 
 * ```compound(foo(qwe)).``` per verificare se l'argomento è un composto.
+
+* Inizia il file con ```%% -*- Mode: Prolog -*-``` per far capire a Emacs di che programma si tratti.
 
 * ```emacs.``` per aprire l'editor Emacs.
 
@@ -23,3 +27,7 @@
 * Per creare una lista ```ListaVuota = [].```. ```is_list([1, 2, 3]).``` per verificare se l'argomento ```[1, 2, 3]```) è una lista.
 
 * Tail per spacchettare le liste con prefisso e postfisso. ```Tail``` restituisce una lista con la coda della mia lista. Es. ```[1, 2 | Tail] = [1, X, 3, 4, foo].``` restituisce ```X = 2``` e ```Tail = [3, 4, foo]```.
+
+* I programmi Prolog sono essenzialmente dichiarazioni su cosa è vero e cosa non lo è.
+
+
