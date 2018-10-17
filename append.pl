@@ -1,4 +1,4 @@
-: Prolog -*-
+%% -*- Mode: Prolog -*-
 %!  Inizio file
 
 % ! Programma che date due liste le concatena restituendo la lista
