@@ -4,7 +4,7 @@
 
 * ```emacs.``` per aprire l'editor Emacs.
 
-* Nel menu in alto di Emacs vai su Compile > Compile Buffer per eseguire un refresh della mia base di dati.
+* Nel menu in alto di Emacs vai su Compile > Compile Buffer per aggiornare la base di dati.
 
 * ```workingDirectory(WD, WD)``` per mostrare directory corrente.
 
