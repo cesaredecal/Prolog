@@ -10,7 +10,7 @@
 
 * Nel menu in alto di Emacs vai su Compile > Compile Buffer per aggiornare la base di dati.
 
-* ```workingDirectory(WD, WD).``` per mostrare directory corrente.
+* ```working_directory(WD, WD).``` per mostrare directory corrente (es: ```'c:/users/c.decal/documents/prolog/'```).
 
 * ```help.``` per mostrare la documentazione
 
