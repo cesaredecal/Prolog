@@ -2,9 +2,9 @@
 
 * ```halt.``` per chiudere il prompt.
 
-* ```atom(ciao).``` per verificare se x è un atomo.
+* ```atom(ciao).``` per verificare se x è un atomo. ```atomic(43).``` funziona anche con i numeri.
 
-* ```atomic(43).``` funziona anche con i numeri.
+* ```compound(foo(qwe)).``` per verificare se l'argomento è un composto.
 
 * ```emacs.``` per aprire l'editor Emacs.
 
