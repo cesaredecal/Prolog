@@ -2,7 +2,7 @@
 
 * ```halt.``` per chiudere il prompt.
 
-* Compile > Compile Buffer per eseguire un refresh della mia base di dati.
+* Nel menu in alto vai su Compile > Compile Buffer per eseguire un refresh della mia base di dati.
 
 * ```workingDirectory(WD, WD)``` per mostrare directory corrente.
 
