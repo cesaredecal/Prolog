@@ -12,4 +12,4 @@
 
 * Dopo aver fatto una domanda come ```colleague(X, Y, 'IBM')```. premi punto e virgola per mostrare altre opzioni (equivale all'OR).
 
-* Per creare una lista ```ListaVuota = [].```. ```is_list([]).``` per verificare se l'argomento è una lista.
+* Per creare una lista ```ListaVuota = [].```. ```is_list([1, 2, 3]).``` per verificare se l'argomento ```[1, 2, 3]```) è una lista.
