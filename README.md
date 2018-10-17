@@ -2,6 +2,10 @@
 
 * ```halt.``` per chiudere il prompt.
 
+* ```atom(ciao)``` per verificare se x è un atomo.
+
+* ```atomic(43)``` funziona anche con i numeri.
+
 * ```emacs.``` per aprire l'editor Emacs.
 
 * Nel menu in alto di Emacs vai su Compile > Compile Buffer per aggiornare la base di dati.
