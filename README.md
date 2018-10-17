@@ -12,6 +12,6 @@
 
 * ```consult('nomeFile.pl')``` per caricare un file ed aggiungere i fatti e le regole alla base dei dati.
 
-* Dopo aver fatto una domanda come ```colleague(X, Y, 'IBM')```. premi punto e virgola per mostrare altre opzioni (equivale all'OR).
+* Dopo aver fatto una domanda come ```colleague(X, Y, 'IBM').``` premi punto e virgola ```;``` per mostrare altre opzioni che soddisfano la mia domanda (equivale all'OR).
 
 * Per creare una lista ```ListaVuota = [].```. ```is_list([1, 2, 3]).``` per verificare se l'argomento ```[1, 2, 3]```) è una lista.
