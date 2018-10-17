@@ -32,4 +32,4 @@
 
 * Per convenzione si usa ```Xs``` per indicare il nome della coda.
 
-* ```X = 1+2``` restituisce ```X = 1+2``` (manipolazione sintattica) mentre ```X is 1 + 2``` restituisce ```X = 4``` (manipolazione semantica). ```is``` è un predicato.
+* ```X = 1+2.``` restituisce ```X = 1+2.``` (manipolazione sintattica) mentre ```X is 1 + 2.``` restituisce ```X = 4.``` (manipolazione semantica). ```is``` è un predicato.
