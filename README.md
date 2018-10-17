@@ -30,4 +30,4 @@
 
 * Tail per spacchettare le liste con prefisso e postfisso. ```Tail``` restituisce una lista con la coda della mia lista. Es. ```[1, 2 | Tail] = [1, X, 3, 4, foo].``` restituisce ```X = 2``` e ```Tail = [3, 4, foo]```.
 
-* ```X = 1+2``` restituisce ```X = 1+2``` (manipolazione sintattica) mentre ```X is 1 + 2``` restituisce ```X = 4```.
+* ```X = 1+2``` restituisce ```X = 1+2``` (manipolazione sintattica) mentre ```X is 1 + 2``` restituisce ```X = 4``` (manipolazione semantica). ```is``` è un predicato.
