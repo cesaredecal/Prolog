@@ -1,5 +1,7 @@
 # Prolog
 
+## Info base
+
 * I programmi Prolog sono fatti da fatti, regole e domande.
 
 * Per iniziare apri Prolog. Su macOS scarica XQuartz.
@@ -33,3 +35,10 @@
 * Per convenzione si usa ```Xs``` per indicare il nome della coda.
 
 * ```X = 1+2.``` restituisce ```X = 1+2.``` (manipolazione sintattica) mentre ```X is 1 + 2.``` restituisce ```X = 4.``` (manipolazione semantica). ```is``` è un predicato.
+
+## Lab 4
+
+* Per convertire una costante in una stringa atom_string(test, X) X = "test". C'è differenza tra il nome di una variabile e una stringa.
+
+* predicato(X, Y)/2, quel 2 vuol dire che quel 2 accetta due argomenti
+
