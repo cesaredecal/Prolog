@@ -42,3 +42,9 @@
 
 * predicato(X, Y)/2, quel 2 vuol dire che quel 2 accetta due argomenti
 
+* number_string(X, "10"). X = 10.
+
+* string_codes("Ciao", X) X = [67, 105, 97, 111-
+
+* string_codes("abc", X).
+
